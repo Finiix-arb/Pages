@@ -1,0 +1,2 @@
+# Pages
+Examples of pages
